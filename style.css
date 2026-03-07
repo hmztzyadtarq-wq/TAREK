@@ -56,7 +56,7 @@ nav a:hover {
 }
 
 .banner-img {
-  width: 900px;   /* حجم متوسط */
+  width: 700px;   /* حجم متوسط */
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
@@ -158,6 +158,7 @@ nav a:hover {
   from {opacity: 0;}
   to {opacity: 1;}
 }
+
 
 
 
