@@ -60,6 +60,7 @@ nav a:hover {
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
+  flex-direction:colum;
 }
 
 .profile-img {
@@ -158,6 +159,7 @@ nav a:hover {
   from {opacity: 0;}
   to {opacity: 1;}
 }
+
 
 
 
